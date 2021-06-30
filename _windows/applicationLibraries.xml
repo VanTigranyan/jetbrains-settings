@@ -1,0 +1,84 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/assert" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-as-promised" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/elasticsearch" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/faker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/feathersjs__feathers" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/prop-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-router-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-test-renderer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sequelize" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon-chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/testing-library__dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/testing-library__react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/testing-library__react-hooks" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/testing-library__user-event" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

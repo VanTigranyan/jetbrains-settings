@@ -1,0 +1,16 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration watchReturnValues="true">
+          <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="node_modules/**/*.js" />
+          </stepping-filters>
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
