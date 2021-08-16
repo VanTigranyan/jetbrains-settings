@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
+      <mapping pattern="server" type="PLAIN_TEXT" />
+      <mapping pattern="inspector-stylesheet" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="SortableList.js" type="PLAIN_TEXT" />
-      <mapping pattern=".Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="inspector-stylesheet" type="PLAIN_TEXT" />
-      <mapping pattern="server" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="log0010" type="PLAIN_TEXT" />
+      <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
       <mapping pattern=".sonar_lock" type="PLAIN_TEXT" />
+      <mapping pattern=".Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="log0010" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="tsbuildinfo" type="PLAIN_TEXT" />
