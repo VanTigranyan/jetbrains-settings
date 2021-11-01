@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping pattern="inspector-stylesheet" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
