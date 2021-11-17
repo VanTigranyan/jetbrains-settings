@@ -5,22 +5,23 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.htm</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.sht</mask>
-    <mask>*.ng</mask>
-    <mask>*.html</mask>
-    <mask>*.ats</mask>
-    <mask>*.ts</mask>
-    <mask>*.cjs</mask>
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.scss</mask>
     <mask>*.js, *.tsx</mask>
     <mask>*.js, *.tsx, !*.test.*</mask>
     <mask>*.svg</mask>
-    <mask>*.js</mask>
     <mask>*test.js</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
